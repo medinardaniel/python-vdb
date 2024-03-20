@@ -1,4 +1,6 @@
-# Duke Registration Process Vector Database
+# Duke Registration Process: Qdrant Vector Database
+
+By Daniel Medina
 
 This tool is designed to assist users in querying information about the Duke registration process and policies. It loads chunks of text related to the Duke registration process into a vector database, allowing users to submit queries about the registration process and retrieve the most relevant text chunks based on vector similarity search.
 
