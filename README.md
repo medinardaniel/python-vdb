@@ -18,6 +18,8 @@ Users can submit queries about the registration process using natural language q
 
 The output of the program is displayed in the terminal. When a user submits a query, the program prints the most relevant text chunks along with their corresponding text. This provides users with a clear view of the information related to their query.
 
+As you can see below, the program takes a text file as input and loads the text chunks into the Qdrant vector database. Then the user can ask a question and the program will retrieve the most similar vector and display its corresponding chunk.
+
 ![Sample Output](python-vdb-ss.png)
 
 ## Usage
